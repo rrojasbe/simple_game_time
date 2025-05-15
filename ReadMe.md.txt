@@ -14,7 +14,7 @@
 
 ```bash
 git clone https://github.com/rrojasbe/simple_game_time.git
-cd reaction-timer-game
+cd simple_game_time 
 
 ## Step 2 
 
